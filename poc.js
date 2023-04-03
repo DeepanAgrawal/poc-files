@@ -1,5 +1,5 @@
 function pocScript() {
-  export function a() {
+  function a() {
     console.log("CREDIT KA HELLO SABKO");
   }
 }
